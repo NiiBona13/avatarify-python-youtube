@@ -6,7 +6,6 @@ import time
 import requests
 
 import numpy as np
-import cv2
 
 from afy.videocaptureasync import VideoCaptureAsync
 from afy.arguments import opt
